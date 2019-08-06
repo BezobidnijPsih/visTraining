@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Glyph / Info Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Developer-Area" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5-5-0-Application-Permissions-Perview-L" transform="translate(-447.000000, -284.000000)" fill="#FFC94D">
+            <g id="Dialog" transform="translate(418.000000, 137.000000)">
+                <g id="modal">
+                    <g id="Glyphs-/-Feedback-/-Warning-/-Low-/-Filled-/-16x16" transform="translate(29.000000, 147.000000)">
+                        <path d="M12,0.74999993 C5.78679653,0.74999993 0.74999993,5.78679653 0.74999993,12 C0.74999993,18.2132035 5.78679653,23.2499999 12,23.2499999 C18.2132035,23.2499999 23.2499999,18.2132035 23.2499999,12 C23.2499999,5.78679653 18.2132035,0.74999993 12,0.74999993 Z M12.75,15.75 L11.25,15.75 L11.25,14.25 L12.75,14.25 L12.75,15.75 Z M12.75,12.75 L11.25,12.75 L11.25,8.24999998 L12.75,8.24999998 L12.75,12.75 Z" id="Color"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
