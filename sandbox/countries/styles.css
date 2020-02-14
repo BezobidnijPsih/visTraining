@@ -1,0 +1,11 @@
+.xAxis, .yAxis {
+    color: #b9b9b9;
+}
+
+.xAxis text, .yAxis text {
+    color: gray;
+}
+
+.title {
+    font-family: Helvetica;
+}
